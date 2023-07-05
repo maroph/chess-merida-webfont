@@ -89,7 +89,7 @@ RnBqKbNr</div>
 
 creates the following output in a browser
 
-![inital position](images/initialposition.png)
+![inital position](images/initialposition.jpg)
 
 ## Changes to the original Data
 The original data are located in the directory

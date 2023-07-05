@@ -74,7 +74,7 @@ or in the file _images/ChessMerida-Keymap.png_:
 ![Chess Mérida Keymap](images/ChessMerida-Keymap.png)
 
 ### Sample
-The following HTML code
+This HTML code
 
 ```
 <div class="fcm">tMvWlVmT

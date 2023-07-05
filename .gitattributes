@@ -1,0 +1,15 @@
+* text=auto
+#
+*.css text
+*.md text
+*.txt text
+*.TXT text
+#
+*.DOC   binary
+*.docs  binary
+*.pdf   binary
+*.png   binary
+*.ttf   binary
+*.TTF   binary
+*.woff2 binary
+*.zip   binary

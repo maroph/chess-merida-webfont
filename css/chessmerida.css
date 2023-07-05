@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*
+ * Author      : Manfred Rosenboom
+ * Last Update : 2023-07-05T09:37:00+02:00
+ * ---
+ * Chess Merida TrueType font converted to WOFF2:
+ * https://cloudconvert.com/ttf-to-woff2
+ */
+@font-face {
+    font-display: swap;
+    font-family: 'ChessMerida';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/ChessMerida.woff2') format('woff2');
+}
+
+.fcm {
+    display: inline-block;
+    font: normal normal normal 14px/1 ChessMerida;
+    font-size: 32px;
+    text-rendering: auto;
+    white-space: pre;
+    border: 1px solid black;
+    width: fit-content;
+    height: fit-content;
+    background-color: #fefefe;
+}

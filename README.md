@@ -25,8 +25,6 @@ Download [merid_tt.zip](merid_tt/merid_tt.zip) (27 KB)
 
 * css
   * chessmerida.css
-* img
-  * cc-by_88x31.png
 * docs
   * ChessMerida.docx
   * ChessMerida.odt

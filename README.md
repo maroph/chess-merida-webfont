@@ -17,7 +17,7 @@ Frame with co-ordinates possible.
 
 Chess Mérida pieces:
 
-![Chess Mérida Pieces](images/ChessMerida_Pieces.png).
+![Chess Mérida Pieces](images/ChessMerida_Pieces.jpg).
  
 Download [merid_tt.zip](merid_tt/merid_tt.zip) (27 KB)
 
@@ -36,9 +36,9 @@ Download [merid_tt.zip](merid_tt/merid_tt.zip) (27 KB)
   * ChessMerida.woff2
 * images
   * cc-by_88x31.png
-  * ChessMerida-Keymap.png
-  * ChessMerida_Pieces.png
-  * initialposition.png
+  * ChessMerida-Keymap.jpg
+  * ChessMerida_Pieces.jpg
+  * initialposition.jpg
 * merid_tt
   * merid_tt.zip 
   * CHESMERI.DOC
@@ -47,6 +47,12 @@ Download [merid_tt.zip](merid_tt/merid_tt.zip) (27 KB)
   * README_D.TXT
 * samples
   * initialposition.html
+
+---
+
+You will find the current version in my 
+GitHub repository  
+[maroph/chess-merida-webfont](https://github.com/maroph/chess-merida-webfont)
 
 ## Chess Mérida Keymap
 
@@ -71,7 +77,7 @@ You will find the complete keymap in the
 file [docs/ChessMerida.pdf](docs/ChessMerida.pdf),
 or in the file _images/ChessMerida-Keymap.png_:
 
-![Chess Mérida Keymap](images/ChessMerida-Keymap.png)
+![Chess Mérida Keymap](images/ChessMerida-Keymap.jpg)
 
 ### Sample
 This HTML code
@@ -116,7 +122,6 @@ to _docs/Readme.txt_ and changed the
 Charset to UTF-8.
 
 ## Kudos
-* Armando Hernandez Marroquin  
-  for creating this font.
+* __Armando Hernandez Marroquin__ for creating this font.
 * This work is inspired by the GitHub repository
 [vasiliyaltunin/chess-merida-font](https://github.com/vasiliyaltunin/chess-merida-font).

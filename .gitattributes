@@ -7,6 +7,7 @@
 #
 *.DOC   binary
 *.docs  binary
+*.jpg   binary
 *.pdf   binary
 *.png   binary
 *.ttf   binary
